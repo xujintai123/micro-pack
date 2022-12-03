@@ -1,0 +1,17 @@
+{
+  "name": "micro-pack",
+  "version": "1.0.0",
+  "description": "简易打包器",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/traverse": "^7.20.5"
+  }
+}
